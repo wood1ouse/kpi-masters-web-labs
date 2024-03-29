@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Meetings>
+    <Meeting date="2024-03-29" time="10:00">
+        <With>John Doe</With>
+        <Place>Conference Room A</Place>
+    </Meeting>
+    <Meeting date="2024-03-30" time="15:00">
+        <With>Jane Smith</With>
+        <Place>Conference Room B</Place>
+    </Meeting>
+    <Meeting date="2024-03-29" time="11:30">
+        <With>Michael Brown</With>
+        <Place>Office 101</Place>
+    </Meeting>
+</Meetings>
